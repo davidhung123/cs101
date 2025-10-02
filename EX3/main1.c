@@ -19,7 +19,7 @@ int main()
 {
     int rows = 6;
     
-    for(int i = 0; i <= rows; i++){
+    for(int i = 1; i <= rows; i++){
         print_sp(i, rows);
         print_num(i);
     }
